@@ -1,6 +1,7 @@
-# sqm-platform
+# XXXXXX-platform
 Plataforma de creación de proformas, y calculo de rutas de transporte.
-/sqm-platform-prototype/
+/XXXX
+-platform-prototype/
 │
 ├── main.py                  # Punto de entrada / Menu Principal
 ├── tarifas.py               # Cálculo de tarifas de rutas
